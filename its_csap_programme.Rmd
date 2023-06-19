@@ -1,0 +1,58 @@
+---
+output:
+  xaringan::moon_reader:
+    css: [default, "slides-theme.css"]
+    lib_dir: libs
+    nature:
+    ratio: '16:9'
+    highlightStyle: github
+    highlightLines: true
+    slideNumberFormat: ''
+    seal: false
+---
+
+#  Road Safety Analysis in CSAP and ITS <br/> .small-font[*Research | Data | Funding*]
+
+
+```{r, include=FALSE}
+library(tidyverse)
+library(kableExtra)
+library(icons)
+```
+
+<br/><br/><br/><br/>
+
+
+.xsmall-font[Rm8.11 Garstang <br/>20th Jun 2023]
+
+---
+
+## Agenda
+
+
+#### 1000-1015 : Arrival / Introductions
+
+-------
+
+#### 1015-1130 : Talks
+
+#### 1145-1230 : Discussion: Datasets, Funding calls, Collaborators
+
+-------
+
+#### 1230-1300 : Lunch
+
+---
+
+## Talks 
+
+#### 1015-1130, 10 mins + 5 mins
+
+|   |           | 
+|----------|:-------------:|
+| .tiny-font[Roger Beecham] | .tiny-font[*Exploring with integrity: making inferences with road crash data*] | 
+| .tiny-font[Caroline Tait] |  .tiny-font[*Contraflows and Cycling Safety: Evidence from 22 years of data*]   |   
+| .tiny-font[Mohammed Ibrahim] | .tiny-font[*Understanding cities with machine eyes*] |    
+| .tiny-font[Eugeni Vidal Tortosa] | .tiny-font[*Socioeconomic inequalities in cycling safety: An analysis of the risk of cycling injuries by level of residential deprivation in England*] | 
+| .tiny-font[Yue Huang] | .tiny-font[*Crash prediction models for urban roads*] | 
+
