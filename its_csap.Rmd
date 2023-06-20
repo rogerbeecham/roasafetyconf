@@ -295,43 +295,102 @@ Framework for what this expanded, model-based exploratory analysis (not EDA) mig
 
 
 
-### Model refinement and characterising 'surprise'
+###  Model + Residual
+
+#### Model refinement and characterising 'surprise'
 
 <img src = "img/analysis1.png", width = 70%, style = "position:absolute; top: 35%; left: 10%;"></img>
 
 
 ---
 
-### Model refinement and characterising 'surprise'
+###  Model + Residual
 
-<img src = "img/freqs_imd.png", width = 65%, style = "position:absolute; top: 35%; left: 10%;"></img>
+#### Model refinement and characterising 'surprise'
 
-
----
-
-### Model refinement and characterising 'surprise'
-
-<img src = "img/freqs_imd_ann1.png", width = 65%, style = "position:absolute; top: 35%; left: 10%;"></img>
+<img src = "img/freqs_imd.png", width = 65%, style = "position:absolute; top: 35%; left: 5%;"></img>
 
 
 ---
 
-### Model refinement and characterising 'surprise'
+###  Model + Residual
+
+#### Model refinement and characterising 'surprise'
+
+<img src = "img/freqs_imd_ann1.png", width = 65%, style = "position:absolute; top: 35%; left: 5%;"></img>
+
+
+---
+
+###  Model + Residual
+
+#### Model refinement and characterising 'surprise'
+
+<img src = "img/freqs_imd_ann1.png", width = 65%, style = "position:absolute; top: 35%; left: 5%;"></img>
+
+<img src = "img/imd_driver_cas_talk.png", width = 27%, style = "position:absolute; top: 35%; left: 72%;"></img>
+
+
+
+---
+
+###  Model + Residual
+
+#### Model refinement and characterising 'surprise'
+
+<img src = "img/freqs_imd_ann1.png", width = 65%, style = "position:absolute; top: 35%; left: 5%;"></img>
+
+<img src = "img/imd_driver_cas_talk_obs.png", width = 27%, style = "position:absolute; top: 35%; left: 72%;"></img>
+
+---
+
+###  Model + Residual
+
+#### Model refinement and characterising 'surprise'
+
+<img src = "img/value_free_red.png", width = 65%, style = "position:absolute; top: 32%; left: 10%;"></img>
+
+
+---
+
+###  Model + Residual
+
+#### Model refinement and characterising 'surprise'
 
 <img src = "img/value_free.png", width = 65%, style = "position:absolute; top: 32%; left: 10%;"></img>
 
 
 ---
 
+###  Model + Residual
 
-
-### Model refinement and characterising 'surprise'
+#### Model refinement and characterising 'surprise'
 
 <img src = "img/freqs_imd_ann2.png", width = 65%, style = "position:absolute; top: 35%; left: 10%;"></img>
 
 ---
 
-### Model refinement and characterising 'surprise'
+###  Model + Residual
+
+#### Model refinement and characterising 'surprise'
+
+<img src = "img/updated_obs.png", width = 65%, style = "position:absolute; top: 32%; left: 10%;"></img>
+
+
+---
+
+###  Model + Residual
+
+#### Model refinement and characterising 'surprise'
+
+<img src = "img/updated_dist.png", width = 65%, style = "position:absolute; top: 32%; left: 10%;"></img>
+
+
+---
+
+###  Model + Residual
+
+#### Model refinement and characterising 'surprise'
 
 <img src = "img/updated.png", width = 65%, style = "position:absolute; top: 32%; left: 10%;"></img>
 
